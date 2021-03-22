@@ -6,8 +6,8 @@ package dm
 
 import (
 	"bytes"
-	"dm/parser"
-	"dm/util"
+	"github.com/Insua/dm/parser"
+	"github.com/Insua/dm/util"
 	"strconv"
 	"strings"
 )

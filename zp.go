@@ -5,7 +5,7 @@
 package dm
 
 import (
-	"dm/util"
+	"github.com/Insua/dm/util"
 	"os"
 	"strconv"
 	"strings"

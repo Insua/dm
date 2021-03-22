@@ -8,7 +8,7 @@ import (
 	"context"
 	"database/sql"
 	"database/sql/driver"
-	"dm/util"
+	"github.com/Insua/dm/util"
 	"io"
 	"strings"
 	"time"

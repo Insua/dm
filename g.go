@@ -5,8 +5,8 @@
 package dm
 
 import (
-	"dm/util"
 	"fmt"
+	"github.com/Insua/dm/util"
 	"math"
 	"os"
 	"sort"

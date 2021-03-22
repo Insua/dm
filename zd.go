@@ -8,7 +8,7 @@ package dm
 import (
 	"context"
 	"database/sql/driver"
-	"dm/util"
+	"github.com/Insua/dm/util"
 	"reflect"
 	"strconv"
 	"time"
